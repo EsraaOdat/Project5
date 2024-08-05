@@ -1,0 +1,173 @@
+﻿@model IEnumerable<E_Voting.Models.GeneralListCandidate>
+
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_AdminLayoutPage.cshtml";
+}
+
+@*<h2>Index</h2>
+
+    <p>
+        @Html.ActionLink("Create New", "Create")
+    </p>
+    <table class="table">
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.CandidateName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Email)
+            </th>
+
+            <th>
+                @Html.DisplayNameFor(model => model.GeneralListing.Name)
+            </th>
+            <th></th>
+        </tr>
+
+        @foreach (var item in Model)
+        {
+            string rowClass = item.Status == "1" ? "accepted-bg" : item.Status == "0" ? "rejected-bg" : "";
+
+            <tr class="@rowClass">
+                <td>
+                    @Html.DisplayFor(modelItem => item.CandidateName)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Email)
+                </td>
+
+                <td>
+                    @Html.DisplayFor(modelItem => item.GeneralListing.Name)
+                </td>
+                <td>
+                    @using (Html.BeginForm("UpdateStatus", "GeneralListCandidates", FormMethod.Post, new { @style = "display:inline;" }))
+                    {
+                        @Html.Hidden("CandidateID", item.CandidateID)
+                        @Html.DropDownList("Status", new SelectList(new[]
+                        {
+                            new SelectListItem { Text = "Choose", Value = "" },
+                            new SelectListItem { Text = "Accept", Value = "1" },
+                            new SelectListItem { Text = "Reject", Value = "0" }
+                        }, "Value", "Text", item.Status), new { @class = "form-control", @onchange = "this.form.submit();" })
+                    }
+                </td>
+            </tr>
+        }
+
+    </table>*@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="container-fluid">
+    <div class="row justify-content-center">
+        <div class="col-12">
+            <div class="row align-items-center my-4">
+                <div class="col">
+                    <h2 class="h3 mb-0 page-title">Candidate applications for the party list</h2>
+                </div>
+                @*                <div class="col-auto">
+                        <form id="filterForm" method="get" action="@Url.Action("Index")">
+                            <div class="form-check form-check-inline">
+                                <input class="form-check-input" type="radio" name="isRead" id="all" value="" @(Request["isRead"] == null || Request["isRead"] == "0" ? "checked" : "")>
+                                <label class="form-check-label" for="all">All</label>
+                            </div>
+                            <div class="form-check form-check-inline">
+                                <input class="form-check-input" type="radio" name="isRead" id="read" value="true" @(Request["isRead"] == "true" ? "checked" : "")>
+                                <label class="form-check-label" for="read">Read</label>
+                            </div>
+                            <div class="form-check form-check-inline">
+                                <input class="form-check-input" type="radio" name="isRead" id="unread" value="false" @(Request["isRead"] == "false" ? "checked" : "")>
+                                <label class="form-check-label" for="unread">Unread</label>
+                            </div>
+                        </form>
+                    </div>
+                *@
+            </div>
+            <!-- table -->
+            <div class="card shadow">
+                <div class="card-body">
+                    <table class="table table-borderless table-hover">
+                        <thead>
+                            <tr>
+                                <th>
+                                    @Html.DisplayNameFor(model => model.CandidateName)
+                                </th>
+                                <th>
+                                    @Html.DisplayNameFor(model => model.Email)
+                                </th>
+
+                                <th>
+                                    @Html.DisplayNameFor(model => model.GeneralListing.Name)
+                                </th>
+                                <th></th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            @foreach (var item in Model)
+                            {
+                                string rowClass = item.Status == "1" ? "accepted-bg" : item.Status == "0" ? "rejected-bg" : "";
+
+                                <tr class="@rowClass">
+
+                                    <td>
+                                        <small class="mb-0 text-muted">
+                                            @Html.DisplayFor(modelItem => item.CandidateName)
+                                        </small>
+                                    </td>
+                                    <td>
+                                        <small class="mb-0 text-muted">
+                                            @Html.DisplayFor(modelItem => item.Email)
+                                        </small>
+                                    </td>
+                                    <td>
+                                        <small class="mb-0 text-muted">
+                                            @Html.DisplayFor(modelItem => item.GeneralListing.Name)
+                                        </small>
+                                    </td>
+                                    <td>
+                                        @using (Html.BeginForm("UpdateStatus", "GeneralListCandidates", FormMethod.Post, new { @style = "display:inline;" }))
+                                        {
+                                            @Html.Hidden("CandidateID", item.CandidateID)
+                                            @Html.DropDownList("Status", new SelectList(new[]
+                                            {
+                                                new SelectListItem { Text = "Choose", Value = "" },
+                                                new SelectListItem { Text = "Accept", Value = "1" },
+                                                new SelectListItem { Text = "Reject", Value = "0" }
+                                            }, "Value", "Text", item.Status), new { @class = "form-control", @onchange = "this.form.submit();" })
+                                        }
+                                    </td>
+                                    @*<td>
+                                            <a class="btn btn-primary btn-sm" href="@Url.Action("DetailsContact", "Admin", new { id = item.id })">
+                                                <span class="fe fe-eye fe-12 mr-2"></span>Details
+                                            </a>
+                                        </td>*@
+                                </tr>
+                            }
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
