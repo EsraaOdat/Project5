@@ -12,7 +12,7 @@ namespace E_Voting.Controllers
 {
     public class AdminController : Controller
     {
-        private ElectionEntities1 db = new ElectionEntities1();
+        private ElectionEntities db = new ElectionEntities();
 
         // GET: Admin
 

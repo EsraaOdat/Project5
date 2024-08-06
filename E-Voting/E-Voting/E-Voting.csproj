@@ -388,6 +388,9 @@
     <Content Include="libs\fonts\fontawesome-webfont5b62.woff" />
     <Content Include="libs\fonts\fontawesome-webfont5b62.woff2" />
     <Content Include="libs\fonts\fontawesome-webfontd41d.eot" />
+    <Content Include="Content\Admin\fonts\feather.eot" />
+    <Content Include="Content\Admin\fonts\feather.ttf" />
+    <Content Include="Content\Admin\fonts\feather.woff" />
     <EntityDeploy Include="Models\Model1.edmx">
       <Generator>EntityModelCodeGenerator</Generator>
       <LastGenOutput>Model1.Designer.cs</LastGenOutput>
@@ -395,9 +398,6 @@
     <Content Include="Models\Model1.edmx.diagram">
       <DependentUpon>Model1.edmx</DependentUpon>
     </Content>
-    <Content Include="Content\Admin\fonts\feather.eot" />
-    <Content Include="Content\Admin\fonts\feather.ttf" />
-    <Content Include="Content\Admin\fonts\feather.woff" />
     <None Include="Scripts\jquery-3.7.0.intellisense.js" />
     <Content Include="Scripts\jquery-3.7.0.js" />
     <Content Include="Scripts\jquery-3.7.0.min.js" />
@@ -445,6 +445,7 @@
     <Content Include="Views\GeneralListings\Edit.cshtml" />
     <Content Include="Views\GeneralListings\Index.cshtml" />
     <Content Include="Views\GeneralListCandidates\Create.cshtml" />
+    <Content Include="Views\GeneralListings\DeleteListingWithCandidates.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />

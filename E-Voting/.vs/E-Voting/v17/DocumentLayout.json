@@ -1,126 +1,166 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Orange\\Downloads\\Project5_E-Voting-main (2)\\Project5_E-Voting-main\\E-Voting\\",
+  "WorkspaceRootPath": "C:\\Users\\Orange\\Downloads\\Project5_E-Voting-main (2)\\Project5_E-Voting-main\\Project5\\E-Voting\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{390F4D0C-EF1E-49E3-B3D9-A09BE44BD809}|E-Voting\\E-Voting.csproj|C:\\Users\\Orange\\Downloads\\Project5_E-Voting-main (2)\\Project5_E-Voting-main\\E-Voting\\e-voting\\models\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
-      "RelativeMoniker": "D:0:0:{390F4D0C-EF1E-49E3-B3D9-A09BE44BD809}|E-Voting\\E-Voting.csproj|solutionrelative:e-voting\\models\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
+      "AbsoluteMoniker": "D:0:0:{390F4D0C-EF1E-49E3-B3D9-A09BE44BD809}|E-Voting\\E-Voting.csproj|c:\\users\\orange\\downloads\\project5_e-voting-main (2)\\project5_e-voting-main\\project5\\e-voting\\e-voting\\views\\generallistings\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{390F4D0C-EF1E-49E3-B3D9-A09BE44BD809}|E-Voting\\E-Voting.csproj|solutionrelative:e-voting\\views\\generallistings\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{390F4D0C-EF1E-49E3-B3D9-A09BE44BD809}|E-Voting\\E-Voting.csproj|c:\\users\\orange\\downloads\\project5_e-voting-main (2)\\project5_e-voting-main\\e-voting\\e-voting\\views\\admin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{390F4D0C-EF1E-49E3-B3D9-A09BE44BD809}|E-Voting\\E-Voting.csproj|solutionrelative:e-voting\\views\\admin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{390F4D0C-EF1E-49E3-B3D9-A09BE44BD809}|E-Voting\\E-Voting.csproj|c:\\users\\orange\\downloads\\project5_e-voting-main (2)\\project5_e-voting-main\\project5\\e-voting\\e-voting\\views\\generallistings\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{390F4D0C-EF1E-49E3-B3D9-A09BE44BD809}|E-Voting\\E-Voting.csproj|solutionrelative:e-voting\\views\\generallistings\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{390F4D0C-EF1E-49E3-B3D9-A09BE44BD809}|E-Voting\\E-Voting.csproj|C:\\Users\\Orange\\Downloads\\Project5_E-Voting-main (2)\\Project5_E-Voting-main\\E-Voting\\e-voting\\views\\admin\\detailscontact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{390F4D0C-EF1E-49E3-B3D9-A09BE44BD809}|E-Voting\\E-Voting.csproj|solutionrelative:e-voting\\views\\admin\\detailscontact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{390F4D0C-EF1E-49E3-B3D9-A09BE44BD809}|E-Voting\\E-Voting.csproj|c:\\users\\orange\\downloads\\project5_e-voting-main (2)\\project5_e-voting-main\\project5\\e-voting\\e-voting\\controllers\\generallistingscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{390F4D0C-EF1E-49E3-B3D9-A09BE44BD809}|E-Voting\\E-Voting.csproj|solutionrelative:e-voting\\controllers\\generallistingscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{390F4D0C-EF1E-49E3-B3D9-A09BE44BD809}|E-Voting\\E-Voting.csproj|C:\\Users\\Orange\\Downloads\\Project5_E-Voting-main (2)\\Project5_E-Voting-main\\E-Voting\\e-voting\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{390F4D0C-EF1E-49E3-B3D9-A09BE44BD809}|E-Voting\\E-Voting.csproj|solutionrelative:e-voting\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{390F4D0C-EF1E-49E3-B3D9-A09BE44BD809}|E-Voting\\E-Voting.csproj|c:\\users\\orange\\downloads\\project5_e-voting-main (2)\\project5_e-voting-main\\project5\\e-voting\\e-voting\\models\\generallisting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{390F4D0C-EF1E-49E3-B3D9-A09BE44BD809}|E-Voting\\E-Voting.csproj|solutionrelative:e-voting\\models\\generallisting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{390F4D0C-EF1E-49E3-B3D9-A09BE44BD809}|E-Voting\\E-Voting.csproj|C:\\Users\\Orange\\Downloads\\Project5_E-Voting-main (2)\\Project5_E-Voting-main\\E-Voting\\e-voting\\models\\contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{390F4D0C-EF1E-49E3-B3D9-A09BE44BD809}|E-Voting\\E-Voting.csproj|c:\\users\\orange\\downloads\\project5_e-voting-main (2)\\project5_e-voting-main\\project5\\e-voting\\e-voting\\models\\generallistcandidate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{390F4D0C-EF1E-49E3-B3D9-A09BE44BD809}|E-Voting\\E-Voting.csproj|solutionrelative:e-voting\\models\\generallistcandidate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{390F4D0C-EF1E-49E3-B3D9-A09BE44BD809}|E-Voting\\E-Voting.csproj|c:\\users\\orange\\downloads\\project5_e-voting-main (2)\\project5_e-voting-main\\project5\\e-voting\\e-voting\\models\\contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{390F4D0C-EF1E-49E3-B3D9-A09BE44BD809}|E-Voting\\E-Voting.csproj|solutionrelative:e-voting\\models\\contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{390F4D0C-EF1E-49E3-B3D9-A09BE44BD809}|E-Voting\\E-Voting.csproj|C:\\Users\\Orange\\Downloads\\Project5_E-Voting-main (2)\\Project5_E-Voting-main\\E-Voting\\e-voting\\models\\model1.edmx.diagram||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{390F4D0C-EF1E-49E3-B3D9-A09BE44BD809}|E-Voting\\E-Voting.csproj|solutionrelative:e-voting\\models\\model1.edmx.diagram||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+      "AbsoluteMoniker": "D:0:0:{390F4D0C-EF1E-49E3-B3D9-A09BE44BD809}|E-Voting\\E-Voting.csproj|C:\\Users\\Orange\\Downloads\\Project5_E-Voting-main (2)\\Project5_E-Voting-main\\Project5\\E-Voting\\e-voting\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{390F4D0C-EF1E-49E3-B3D9-A09BE44BD809}|E-Voting\\E-Voting.csproj|solutionrelative:e-voting\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{390F4D0C-EF1E-49E3-B3D9-A09BE44BD809}|E-Voting\\E-Voting.csproj|C:\\Users\\Orange\\Downloads\\Project5_E-Voting-main (2)\\Project5_E-Voting-main\\E-Voting\\e-voting\\models\\model1.context.tt||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{390F4D0C-EF1E-49E3-B3D9-A09BE44BD809}|E-Voting\\E-Voting.csproj|solutionrelative:e-voting\\models\\model1.context.tt||{8B382828-6202-11D1-8870-0000F87579D2}"
+      "AbsoluteMoniker": "D:0:0:{390F4D0C-EF1E-49E3-B3D9-A09BE44BD809}|E-Voting\\E-Voting.csproj|c:\\users\\orange\\downloads\\project5_e-voting-main (2)\\project5_e-voting-main\\project5\\e-voting\\e-voting\\models\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
+      "RelativeMoniker": "D:0:0:{390F4D0C-EF1E-49E3-B3D9-A09BE44BD809}|E-Voting\\E-Voting.csproj|solutionrelative:e-voting\\models\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{390F4D0C-EF1E-49E3-B3D9-A09BE44BD809}|E-Voting\\E-Voting.csproj|C:\\Users\\Orange\\Downloads\\Project5_E-Voting-main (2)\\Project5_E-Voting-main\\E-Voting\\e-voting\\models\\model1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{390F4D0C-EF1E-49E3-B3D9-A09BE44BD809}|E-Voting\\E-Voting.csproj|solutionrelative:e-voting\\models\\model1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{390F4D0C-EF1E-49E3-B3D9-A09BE44BD809}|E-Voting\\E-Voting.csproj|c:\\users\\orange\\downloads\\project5_e-voting-main (2)\\project5_e-voting-main\\project5\\e-voting\\e-voting\\views\\generallistings\\deletelistingwithcandidates.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{390F4D0C-EF1E-49E3-B3D9-A09BE44BD809}|E-Voting\\E-Voting.csproj|solutionrelative:e-voting\\views\\generallistings\\deletelistingwithcandidates.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{390F4D0C-EF1E-49E3-B3D9-A09BE44BD809}|E-Voting\\E-Voting.csproj|C:\\Users\\Orange\\Downloads\\Project5_E-Voting-main (2)\\Project5_E-Voting-main\\E-Voting\\e-voting\\views\\user\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{390F4D0C-EF1E-49E3-B3D9-A09BE44BD809}|E-Voting\\E-Voting.csproj|solutionrelative:e-voting\\views\\user\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{390F4D0C-EF1E-49E3-B3D9-A09BE44BD809}|E-Voting\\E-Voting.csproj|c:\\users\\orange\\downloads\\project5_e-voting-main (2)\\project5_e-voting-main\\project5\\e-voting\\e-voting\\controllers\\generallistcandidatescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{390F4D0C-EF1E-49E3-B3D9-A09BE44BD809}|E-Voting\\E-Voting.csproj|solutionrelative:e-voting\\controllers\\generallistcandidatescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{390F4D0C-EF1E-49E3-B3D9-A09BE44BD809}|E-Voting\\E-Voting.csproj|C:\\Users\\Orange\\Downloads\\Project5_E-Voting-main (2)\\Project5_E-Voting-main\\E-Voting\\e-voting\\app_start\\bundleconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{390F4D0C-EF1E-49E3-B3D9-A09BE44BD809}|E-Voting\\E-Voting.csproj|solutionrelative:e-voting\\app_start\\bundleconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{390F4D0C-EF1E-49E3-B3D9-A09BE44BD809}|E-Voting\\E-Voting.csproj|c:\\users\\orange\\downloads\\project5_e-voting-main (2)\\project5_e-voting-main\\project5\\e-voting\\e-voting\\views\\generallistcandidates\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{390F4D0C-EF1E-49E3-B3D9-A09BE44BD809}|E-Voting\\E-Voting.csproj|solutionrelative:e-voting\\views\\generallistcandidates\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{390F4D0C-EF1E-49E3-B3D9-A09BE44BD809}|E-Voting\\E-Voting.csproj|C:\\Users\\Orange\\Downloads\\Project5_E-Voting-main (2)\\Project5_E-Voting-main\\E-Voting\\e-voting\\views\\shared\\_adminlayoutpage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{390F4D0C-EF1E-49E3-B3D9-A09BE44BD809}|E-Voting\\E-Voting.csproj|solutionrelative:e-voting\\views\\shared\\_adminlayoutpage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{390F4D0C-EF1E-49E3-B3D9-A09BE44BD809}|E-Voting\\E-Voting.csproj|c:\\users\\orange\\downloads\\project5_e-voting-main (2)\\project5_e-voting-main\\project5\\e-voting\\e-voting\\views\\generallistcandidates\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{390F4D0C-EF1E-49E3-B3D9-A09BE44BD809}|E-Voting\\E-Voting.csproj|solutionrelative:e-voting\\views\\generallistcandidates\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{390F4D0C-EF1E-49E3-B3D9-A09BE44BD809}|E-Voting\\E-Voting.csproj|C:\\Users\\Orange\\Downloads\\Project5_E-Voting-main (2)\\Project5_E-Voting-main\\E-Voting\\e-voting\\views\\user\\createcontact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{390F4D0C-EF1E-49E3-B3D9-A09BE44BD809}|E-Voting\\E-Voting.csproj|solutionrelative:e-voting\\views\\user\\createcontact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{390F4D0C-EF1E-49E3-B3D9-A09BE44BD809}|E-Voting\\E-Voting.csproj|C:\\Users\\Orange\\Downloads\\Project5_E-Voting-main (2)\\Project5_E-Voting-main\\E-Voting\\e-voting\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{390F4D0C-EF1E-49E3-B3D9-A09BE44BD809}|E-Voting\\E-Voting.csproj|solutionrelative:e-voting\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{390F4D0C-EF1E-49E3-B3D9-A09BE44BD809}|E-Voting\\E-Voting.csproj|C:\\Users\\Orange\\Downloads\\Project5_E-Voting-main (2)\\Project5_E-Voting-main\\E-Voting\\e-voting\\models\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{390F4D0C-EF1E-49E3-B3D9-A09BE44BD809}|E-Voting\\E-Voting.csproj|solutionrelative:e-voting\\models\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{390F4D0C-EF1E-49E3-B3D9-A09BE44BD809}|E-Voting\\E-Voting.csproj|C:\\Users\\Orange\\Downloads\\Project5_E-Voting-main (2)\\Project5_E-Voting-main\\E-Voting\\e-voting\\views\\user\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{390F4D0C-EF1E-49E3-B3D9-A09BE44BD809}|E-Voting\\E-Voting.csproj|solutionrelative:e-voting\\views\\user\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{390F4D0C-EF1E-49E3-B3D9-A09BE44BD809}|E-Voting\\E-Voting.csproj|C:\\Users\\Orange\\Downloads\\Project5_E-Voting-main (2)\\Project5_E-Voting-main\\E-Voting\\e-voting\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{390F4D0C-EF1E-49E3-B3D9-A09BE44BD809}|E-Voting\\E-Voting.csproj|solutionrelative:e-voting\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{390F4D0C-EF1E-49E3-B3D9-A09BE44BD809}|E-Voting\\E-Voting.csproj|C:\\Users\\Orange\\Downloads\\Project5_E-Voting-main (2)\\Project5_E-Voting-main\\E-Voting\\e-voting\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{390F4D0C-EF1E-49E3-B3D9-A09BE44BD809}|E-Voting\\E-Voting.csproj|solutionrelative:e-voting\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{390F4D0C-EF1E-49E3-B3D9-A09BE44BD809}|E-Voting\\E-Voting.csproj|C:\\Users\\Orange\\Downloads\\Project5_E-Voting-main (2)\\Project5_E-Voting-main\\E-Voting\\e-voting\\models\\model1.context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{390F4D0C-EF1E-49E3-B3D9-A09BE44BD809}|E-Voting\\E-Voting.csproj|c:\\users\\orange\\downloads\\project5_e-voting-main (2)\\project5_e-voting-main\\project5\\e-voting\\e-voting\\models\\model1.context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{390F4D0C-EF1E-49E3-B3D9-A09BE44BD809}|E-Voting\\E-Voting.csproj|solutionrelative:e-voting\\models\\model1.context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{390F4D0C-EF1E-49E3-B3D9-A09BE44BD809}|E-Voting\\E-Voting.csproj|C:\\Users\\Orange\\Downloads\\Project5_E-Voting-main (2)\\Project5_E-Voting-main\\E-Voting\\e-voting\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{390F4D0C-EF1E-49E3-B3D9-A09BE44BD809}|E-Voting\\E-Voting.csproj|c:\\users\\orange\\downloads\\project5_e-voting-main (2)\\project5_e-voting-main\\project5\\e-voting\\e-voting\\views\\generallistcandidates\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{390F4D0C-EF1E-49E3-B3D9-A09BE44BD809}|E-Voting\\E-Voting.csproj|solutionrelative:e-voting\\views\\generallistcandidates\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{390F4D0C-EF1E-49E3-B3D9-A09BE44BD809}|E-Voting\\E-Voting.csproj|c:\\users\\orange\\downloads\\project5_e-voting-main (2)\\project5_e-voting-main\\project5\\e-voting\\e-voting\\views\\generallistcandidates\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{390F4D0C-EF1E-49E3-B3D9-A09BE44BD809}|E-Voting\\E-Voting.csproj|solutionrelative:e-voting\\views\\generallistcandidates\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{390F4D0C-EF1E-49E3-B3D9-A09BE44BD809}|E-Voting\\E-Voting.csproj|c:\\users\\orange\\downloads\\project5_e-voting-main (2)\\project5_e-voting-main\\project5\\e-voting\\e-voting\\views\\generallistcandidates\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{390F4D0C-EF1E-49E3-B3D9-A09BE44BD809}|E-Voting\\E-Voting.csproj|solutionrelative:e-voting\\views\\generallistcandidates\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{390F4D0C-EF1E-49E3-B3D9-A09BE44BD809}|E-Voting\\E-Voting.csproj|c:\\users\\orange\\downloads\\project5_e-voting-main (2)\\project5_e-voting-main\\project5\\e-voting\\e-voting\\models\\model1.context.tt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{390F4D0C-EF1E-49E3-B3D9-A09BE44BD809}|E-Voting\\E-Voting.csproj|solutionrelative:e-voting\\models\\model1.context.tt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{390F4D0C-EF1E-49E3-B3D9-A09BE44BD809}|E-Voting\\E-Voting.csproj|C:\\Users\\Orange\\Downloads\\Project5_E-Voting-main (2)\\Project5_E-Voting-main\\Project5\\E-Voting\\e-voting\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{390F4D0C-EF1E-49E3-B3D9-A09BE44BD809}|E-Voting\\E-Voting.csproj|solutionrelative:e-voting\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{390F4D0C-EF1E-49E3-B3D9-A09BE44BD809}|E-Voting\\E-Voting.csproj|c:\\users\\orange\\downloads\\project5_e-voting-main (2)\\project5_e-voting-main\\project5\\e-voting\\e-voting\\views\\generallistings\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{390F4D0C-EF1E-49E3-B3D9-A09BE44BD809}|E-Voting\\E-Voting.csproj|solutionrelative:e-voting\\views\\generallistings\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{390F4D0C-EF1E-49E3-B3D9-A09BE44BD809}|E-Voting\\E-Voting.csproj|c:\\users\\orange\\downloads\\project5_e-voting-main (2)\\project5_e-voting-main\\project5\\e-voting\\e-voting\\views\\generallistings\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{390F4D0C-EF1E-49E3-B3D9-A09BE44BD809}|E-Voting\\E-Voting.csproj|solutionrelative:e-voting\\views\\generallistings\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{390F4D0C-EF1E-49E3-B3D9-A09BE44BD809}|E-Voting\\E-Voting.csproj|c:\\users\\orange\\downloads\\project5_e-voting-main (2)\\project5_e-voting-main\\project5\\e-voting\\e-voting\\views\\generallistings\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{390F4D0C-EF1E-49E3-B3D9-A09BE44BD809}|E-Voting\\E-Voting.csproj|solutionrelative:e-voting\\views\\generallistings\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{390F4D0C-EF1E-49E3-B3D9-A09BE44BD809}|E-Voting\\E-Voting.csproj|C:\\Users\\Orange\\Downloads\\Project5_E-Voting-main (2)\\Project5_E-Voting-main\\Project5\\E-Voting\\e-voting\\views\\admin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{390F4D0C-EF1E-49E3-B3D9-A09BE44BD809}|E-Voting\\E-Voting.csproj|solutionrelative:e-voting\\views\\admin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{390F4D0C-EF1E-49E3-B3D9-A09BE44BD809}|E-Voting\\E-Voting.csproj|C:\\Users\\Orange\\Downloads\\Project5_E-Voting-main (2)\\Project5_E-Voting-main\\Project5\\E-Voting\\e-voting\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{390F4D0C-EF1E-49E3-B3D9-A09BE44BD809}|E-Voting\\E-Voting.csproj|solutionrelative:e-voting\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{390F4D0C-EF1E-49E3-B3D9-A09BE44BD809}|E-Voting\\E-Voting.csproj|c:\\users\\orange\\downloads\\project5_e-voting-main (2)\\project5_e-voting-main\\project5\\e-voting\\e-voting\\models\\model1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{390F4D0C-EF1E-49E3-B3D9-A09BE44BD809}|E-Voting\\E-Voting.csproj|solutionrelative:e-voting\\models\\model1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{390F4D0C-EF1E-49E3-B3D9-A09BE44BD809}|E-Voting\\E-Voting.csproj|C:\\Users\\Orange\\Downloads\\Project5_E-Voting-main (2)\\Project5_E-Voting-main\\Project5\\E-Voting\\e-voting\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{390F4D0C-EF1E-49E3-B3D9-A09BE44BD809}|E-Voting\\E-Voting.csproj|solutionrelative:e-voting\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{390F4D0C-EF1E-49E3-B3D9-A09BE44BD809}|E-Voting\\E-Voting.csproj|C:\\Users\\Orange\\Downloads\\Project5_E-Voting-main (2)\\Project5_E-Voting-main\\Project5\\E-Voting\\e-voting\\views\\admin\\detailscontact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{390F4D0C-EF1E-49E3-B3D9-A09BE44BD809}|E-Voting\\E-Voting.csproj|solutionrelative:e-voting\\views\\admin\\detailscontact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{390F4D0C-EF1E-49E3-B3D9-A09BE44BD809}|E-Voting\\E-Voting.csproj|C:\\Users\\Orange\\Downloads\\Project5_E-Voting-main (2)\\Project5_E-Voting-main\\Project5\\E-Voting\\e-voting\\views\\user\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{390F4D0C-EF1E-49E3-B3D9-A09BE44BD809}|E-Voting\\E-Voting.csproj|solutionrelative:e-voting\\views\\user\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{390F4D0C-EF1E-49E3-B3D9-A09BE44BD809}|E-Voting\\E-Voting.csproj|C:\\Users\\Orange\\Downloads\\Project5_E-Voting-main (2)\\Project5_E-Voting-main\\Project5\\E-Voting\\e-voting\\app_start\\bundleconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{390F4D0C-EF1E-49E3-B3D9-A09BE44BD809}|E-Voting\\E-Voting.csproj|solutionrelative:e-voting\\app_start\\bundleconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{390F4D0C-EF1E-49E3-B3D9-A09BE44BD809}|E-Voting\\E-Voting.csproj|C:\\Users\\Orange\\Downloads\\Project5_E-Voting-main (2)\\Project5_E-Voting-main\\Project5\\E-Voting\\e-voting\\views\\shared\\_adminlayoutpage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{390F4D0C-EF1E-49E3-B3D9-A09BE44BD809}|E-Voting\\E-Voting.csproj|solutionrelative:e-voting\\views\\shared\\_adminlayoutpage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{390F4D0C-EF1E-49E3-B3D9-A09BE44BD809}|E-Voting\\E-Voting.csproj|C:\\Users\\Orange\\Downloads\\Project5_E-Voting-main (2)\\Project5_E-Voting-main\\Project5\\E-Voting\\e-voting\\views\\user\\createcontact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{390F4D0C-EF1E-49E3-B3D9-A09BE44BD809}|E-Voting\\E-Voting.csproj|solutionrelative:e-voting\\views\\user\\createcontact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{390F4D0C-EF1E-49E3-B3D9-A09BE44BD809}|E-Voting\\E-Voting.csproj|C:\\Users\\Orange\\Downloads\\Project5_E-Voting-main (2)\\Project5_E-Voting-main\\Project5\\E-Voting\\e-voting\\views\\user\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{390F4D0C-EF1E-49E3-B3D9-A09BE44BD809}|E-Voting\\E-Voting.csproj|solutionrelative:e-voting\\views\\user\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{390F4D0C-EF1E-49E3-B3D9-A09BE44BD809}|E-Voting\\E-Voting.csproj|C:\\Users\\Orange\\Downloads\\Project5_E-Voting-main (2)\\Project5_E-Voting-main\\Project5\\E-Voting\\e-voting\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{390F4D0C-EF1E-49E3-B3D9-A09BE44BD809}|E-Voting\\E-Voting.csproj|solutionrelative:e-voting\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{390F4D0C-EF1E-49E3-B3D9-A09BE44BD809}|E-Voting\\E-Voting.csproj|C:\\Users\\Orange\\Downloads\\Project5_E-Voting-main (2)\\Project5_E-Voting-main\\Project5\\E-Voting\\e-voting\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{390F4D0C-EF1E-49E3-B3D9-A09BE44BD809}|E-Voting\\E-Voting.csproj|solutionrelative:e-voting\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{390F4D0C-EF1E-49E3-B3D9-A09BE44BD809}|E-Voting\\E-Voting.csproj|C:\\Users\\Orange\\Downloads\\Project5_E-Voting-main (2)\\Project5_E-Voting-main\\E-Voting\\e-voting\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{390F4D0C-EF1E-49E3-B3D9-A09BE44BD809}|E-Voting\\E-Voting.csproj|C:\\Users\\Orange\\Downloads\\Project5_E-Voting-main (2)\\Project5_E-Voting-main\\Project5\\E-Voting\\e-voting\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{390F4D0C-EF1E-49E3-B3D9-A09BE44BD809}|E-Voting\\E-Voting.csproj|solutionrelative:e-voting\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{390F4D0C-EF1E-49E3-B3D9-A09BE44BD809}|E-Voting\\E-Voting.csproj|C:\\Users\\Orange\\Downloads\\Project5_E-Voting-main (2)\\Project5_E-Voting-main\\E-Voting\\e-voting\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{390F4D0C-EF1E-49E3-B3D9-A09BE44BD809}|E-Voting\\E-Voting.csproj|C:\\Users\\Orange\\Downloads\\Project5_E-Voting-main (2)\\Project5_E-Voting-main\\Project5\\E-Voting\\e-voting\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{390F4D0C-EF1E-49E3-B3D9-A09BE44BD809}|E-Voting\\E-Voting.csproj|solutionrelative:e-voting\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{390F4D0C-EF1E-49E3-B3D9-A09BE44BD809}|E-Voting\\E-Voting.csproj|C:\\Users\\Orange\\Downloads\\Project5_E-Voting-main (2)\\Project5_E-Voting-main\\E-Voting\\e-voting\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{390F4D0C-EF1E-49E3-B3D9-A09BE44BD809}|E-Voting\\E-Voting.csproj|C:\\Users\\Orange\\Downloads\\Project5_E-Voting-main (2)\\Project5_E-Voting-main\\Project5\\E-Voting\\e-voting\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{390F4D0C-EF1E-49E3-B3D9-A09BE44BD809}|E-Voting\\E-Voting.csproj|solutionrelative:e-voting\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{390F4D0C-EF1E-49E3-B3D9-A09BE44BD809}|E-Voting\\E-Voting.csproj|C:\\Users\\Orange\\Downloads\\Project5_E-Voting-main (2)\\Project5_E-Voting-main\\E-Voting\\e-voting\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{390F4D0C-EF1E-49E3-B3D9-A09BE44BD809}|E-Voting\\E-Voting.csproj|solutionrelative:e-voting\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{390F4D0C-EF1E-49E3-B3D9-A09BE44BD809}|E-Voting\\E-Voting.csproj|C:\\Users\\Orange\\Downloads\\Project5_E-Voting-main (2)\\Project5_E-Voting-main\\E-Voting\\e-voting\\views\\user\\loginuser.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{390F4D0C-EF1E-49E3-B3D9-A09BE44BD809}|E-Voting\\E-Voting.csproj|C:\\Users\\Orange\\Downloads\\Project5_E-Voting-main (2)\\Project5_E-Voting-main\\Project5\\E-Voting\\e-voting\\views\\user\\loginuser.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{390F4D0C-EF1E-49E3-B3D9-A09BE44BD809}|E-Voting\\E-Voting.csproj|solutionrelative:e-voting\\views\\user\\loginuser.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{390F4D0C-EF1E-49E3-B3D9-A09BE44BD809}|E-Voting\\E-Voting.csproj|C:\\Users\\Orange\\Downloads\\Project5_E-Voting-main (2)\\Project5_E-Voting-main\\E-Voting\\e-voting\\models\\debate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{390F4D0C-EF1E-49E3-B3D9-A09BE44BD809}|E-Voting\\E-Voting.csproj|solutionrelative:e-voting\\models\\debate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{390F4D0C-EF1E-49E3-B3D9-A09BE44BD809}|E-Voting\\E-Voting.csproj|C:\\Users\\Orange\\Downloads\\Project5_E-Voting-main (2)\\Project5_E-Voting-main\\E-Voting\\e-voting\\models\\model1.tt||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{390F4D0C-EF1E-49E3-B3D9-A09BE44BD809}|E-Voting\\E-Voting.csproj|solutionrelative:e-voting\\models\\model1.tt||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{390F4D0C-EF1E-49E3-B3D9-A09BE44BD809}|E-Voting\\E-Voting.csproj|C:\\Users\\Orange\\Downloads\\Project5_E-Voting-main (2)\\Project5_E-Voting-main\\E-Voting\\e-voting\\views\\user\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{390F4D0C-EF1E-49E3-B3D9-A09BE44BD809}|E-Voting\\E-Voting.csproj|C:\\Users\\Orange\\Downloads\\Project5_E-Voting-main (2)\\Project5_E-Voting-main\\Project5\\E-Voting\\e-voting\\views\\user\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{390F4D0C-EF1E-49E3-B3D9-A09BE44BD809}|E-Voting\\E-Voting.csproj|solutionrelative:e-voting\\views\\user\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{390F4D0C-EF1E-49E3-B3D9-A09BE44BD809}|E-Voting\\E-Voting.csproj|C:\\Users\\Orange\\Downloads\\Project5_E-Voting-main (2)\\Project5_E-Voting-main\\E-Voting\\e-voting\\views\\user\\localelections.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{390F4D0C-EF1E-49E3-B3D9-A09BE44BD809}|E-Voting\\E-Voting.csproj|C:\\Users\\Orange\\Downloads\\Project5_E-Voting-main (2)\\Project5_E-Voting-main\\Project5\\E-Voting\\e-voting\\views\\user\\localelections.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{390F4D0C-EF1E-49E3-B3D9-A09BE44BD809}|E-Voting\\E-Voting.csproj|solutionrelative:e-voting\\views\\user\\localelections.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{390F4D0C-EF1E-49E3-B3D9-A09BE44BD809}|E-Voting\\E-Voting.csproj|C:\\Users\\Orange\\Downloads\\Project5_E-Voting-main (2)\\Project5_E-Voting-main\\E-Voting\\e-voting\\views\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "AbsoluteMoniker": "D:0:0:{390F4D0C-EF1E-49E3-B3D9-A09BE44BD809}|E-Voting\\E-Voting.csproj|C:\\Users\\Orange\\Downloads\\Project5_E-Voting-main (2)\\Project5_E-Voting-main\\Project5\\E-Voting\\e-voting\\views\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
       "RelativeMoniker": "D:0:0:{390F4D0C-EF1E-49E3-B3D9-A09BE44BD809}|E-Voting\\E-Voting.csproj|solutionrelative:e-voting\\views\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{390F4D0C-EF1E-49E3-B3D9-A09BE44BD809}|E-Voting\\E-Voting.csproj|C:\\Users\\Orange\\Downloads\\Project5_E-Voting-main (2)\\Project5_E-Voting-main\\E-Voting\\e-voting\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{390F4D0C-EF1E-49E3-B3D9-A09BE44BD809}|E-Voting\\E-Voting.csproj|solutionrelative:e-voting\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     }
   ],
   "DocumentGroupContainers": [
@@ -130,373 +170,525 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Model1.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\Orange\\Downloads\\Project5_E-Voting-main (2)\\Project5_E-Voting-main\\E-Voting\\E-Voting\\Models\\Model1.Designer.cs",
-              "RelativeDocumentMoniker": "E-Voting\\Models\\Model1.Designer.cs",
-              "ToolTip": "C:\\Users\\Orange\\Downloads\\Project5_E-Voting-main (2)\\Project5_E-Voting-main\\E-Voting\\E-Voting\\Models\\Model1.Designer.cs",
-              "RelativeToolTip": "E-Voting\\Models\\Model1.Designer.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "DocumentIndex": 3,
+              "Title": "GeneralListing.cs",
+              "DocumentMoniker": "C:\\Users\\Orange\\Downloads\\Project5_E-Voting-main (2)\\Project5_E-Voting-main\\Project5\\E-Voting\\E-Voting\\Models\\GeneralListing.cs",
+              "RelativeDocumentMoniker": "E-Voting\\Models\\GeneralListing.cs",
+              "ToolTip": "C:\\Users\\Orange\\Downloads\\Project5_E-Voting-main (2)\\Project5_E-Voting-main\\Project5\\E-Voting\\E-Voting\\Models\\GeneralListing.cs",
+              "RelativeToolTip": "E-Voting\\Models\\GeneralListing.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAxwAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-05T00:39:47.78Z",
+              "WhenOpened": "2024-08-06T08:45:14.038Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Orange\\Downloads\\Project5_E-Voting-main (2)\\Project5_E-Voting-main\\Project5\\E-Voting\\E-Voting\\Views\\GeneralListings\\Create.cshtml",
+              "RelativeDocumentMoniker": "E-Voting\\Views\\GeneralListings\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Orange\\Downloads\\Project5_E-Voting-main (2)\\Project5_E-Voting-main\\Project5\\E-Voting\\E-Voting\\Views\\GeneralListings\\Create.cshtml",
+              "RelativeToolTip": "E-Voting\\Views\\GeneralListings\\Create.cshtml",
+              "ViewState": "AQIAABQAAAAAAAAAAAAowBcAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-06T06:27:22.065Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Model1.edmx [Diagram1]",
+              "DocumentMoniker": "C:\\Users\\Orange\\Downloads\\Project5_E-Voting-main (2)\\Project5_E-Voting-main\\Project5\\E-Voting\\E-Voting\\Models\\Model1.edmx",
+              "RelativeDocumentMoniker": "E-Voting\\Models\\Model1.edmx",
+              "ToolTip": "C:\\Users\\Orange\\Downloads\\Project5_E-Voting-main (2)\\Project5_E-Voting-main\\Project5\\E-Voting\\E-Voting\\Models\\Model1.edmx [Diagram1]",
+              "RelativeToolTip": "E-Voting\\Models\\Model1.edmx [Diagram1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
+              "WhenOpened": "2024-08-06T06:24:31.199Z",
+              "EditorCaption": " [Diagram1]"
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "Model1.Context.tt",
-              "DocumentMoniker": "C:\\Users\\Orange\\Downloads\\Project5_E-Voting-main (2)\\Project5_E-Voting-main\\E-Voting\\E-Voting\\Models\\Model1.Context.tt",
-              "RelativeDocumentMoniker": "E-Voting\\Models\\Model1.Context.tt",
-              "ToolTip": "C:\\Users\\Orange\\Downloads\\Project5_E-Voting-main (2)\\Project5_E-Voting-main\\E-Voting\\E-Voting\\Models\\Model1.Context.tt",
-              "RelativeToolTip": "E-Voting\\Models\\Model1.Context.tt",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAABQAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2024-08-04T06:00:14.185Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Contact.cs",
-              "DocumentMoniker": "C:\\Users\\Orange\\Downloads\\Project5_E-Voting-main (2)\\Project5_E-Voting-main\\E-Voting\\E-Voting\\Models\\Contact.cs",
-              "RelativeDocumentMoniker": "E-Voting\\Models\\Contact.cs",
-              "ToolTip": "C:\\Users\\Orange\\Downloads\\Project5_E-Voting-main (2)\\Project5_E-Voting-main\\E-Voting\\E-Voting\\Models\\Contact.cs",
-              "RelativeToolTip": "E-Voting\\Models\\Contact.cs",
-              "ViewState": "AQIAAA8AAAAAAAAAAAAnwBUAAAAUAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-04T06:18:57.526Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
               "Title": "AdminController.cs",
-              "DocumentMoniker": "C:\\Users\\Orange\\Downloads\\Project5_E-Voting-main (2)\\Project5_E-Voting-main\\E-Voting\\E-Voting\\Controllers\\AdminController.cs",
+              "DocumentMoniker": "C:\\Users\\Orange\\Downloads\\Project5_E-Voting-main (2)\\Project5_E-Voting-main\\Project5\\E-Voting\\E-Voting\\Controllers\\AdminController.cs",
               "RelativeDocumentMoniker": "E-Voting\\Controllers\\AdminController.cs",
-              "ToolTip": "C:\\Users\\Orange\\Downloads\\Project5_E-Voting-main (2)\\Project5_E-Voting-main\\E-Voting\\E-Voting\\Controllers\\AdminController.cs",
+              "ToolTip": "C:\\Users\\Orange\\Downloads\\Project5_E-Voting-main (2)\\Project5_E-Voting-main\\Project5\\E-Voting\\E-Voting\\Controllers\\AdminController.cs",
               "RelativeToolTip": "E-Voting\\Controllers\\AdminController.cs",
-              "ViewState": "AQIAABcAAAAAAAAAAAAgwB8AAAAzAAAA",
+              "ViewState": "AQIAABIAAAAAAAAAAAAawBsAAAAzAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-04T05:18:09.615Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "DetailsContact.cshtml",
-              "DocumentMoniker": "C:\\Users\\Orange\\Downloads\\Project5_E-Voting-main (2)\\Project5_E-Voting-main\\E-Voting\\E-Voting\\Views\\Admin\\DetailsContact.cshtml",
-              "RelativeDocumentMoniker": "E-Voting\\Views\\Admin\\DetailsContact.cshtml",
-              "ToolTip": "C:\\Users\\Orange\\Downloads\\Project5_E-Voting-main (2)\\Project5_E-Voting-main\\E-Voting\\E-Voting\\Views\\Admin\\DetailsContact.cshtml",
-              "RelativeToolTip": "E-Voting\\Views\\Admin\\DetailsContact.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC0AAAAHAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-04T06:23:46.454Z"
+              "WhenOpened": "2024-08-04T05:18:09.615Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Orange\\Downloads\\Project5_E-Voting-main (2)\\Project5_E-Voting-main\\E-Voting\\E-Voting\\Views\\Admin\\Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Orange\\Downloads\\Project5_E-Voting-main (2)\\Project5_E-Voting-main\\Project5\\E-Voting\\E-Voting\\Views\\GeneralListings\\Index.cshtml",
+              "RelativeDocumentMoniker": "E-Voting\\Views\\GeneralListings\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Orange\\Downloads\\Project5_E-Voting-main (2)\\Project5_E-Voting-main\\Project5\\E-Voting\\E-Voting\\Views\\GeneralListings\\Index.cshtml",
+              "RelativeToolTip": "E-Voting\\Views\\GeneralListings\\Index.cshtml",
+              "ViewState": "AQIAABUAAAAAAAAAAAAowC0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-06T07:39:58.03Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GeneralListingsController.cs",
+              "DocumentMoniker": "C:\\Users\\Orange\\Downloads\\Project5_E-Voting-main (2)\\Project5_E-Voting-main\\Project5\\E-Voting\\E-Voting\\Controllers\\GeneralListingsController.cs",
+              "RelativeDocumentMoniker": "E-Voting\\Controllers\\GeneralListingsController.cs",
+              "ToolTip": "C:\\Users\\Orange\\Downloads\\Project5_E-Voting-main (2)\\Project5_E-Voting-main\\Project5\\E-Voting\\E-Voting\\Controllers\\GeneralListingsController.cs",
+              "RelativeToolTip": "E-Voting\\Controllers\\GeneralListingsController.cs",
+              "ViewState": "AQIAAIQAAAAAAAAAAAAAAJoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T06:25:47.431Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GeneralListCandidate.cs",
+              "DocumentMoniker": "C:\\Users\\Orange\\Downloads\\Project5_E-Voting-main (2)\\Project5_E-Voting-main\\Project5\\E-Voting\\E-Voting\\Models\\GeneralListCandidate.cs",
+              "RelativeDocumentMoniker": "E-Voting\\Models\\GeneralListCandidate.cs",
+              "ToolTip": "C:\\Users\\Orange\\Downloads\\Project5_E-Voting-main (2)\\Project5_E-Voting-main\\Project5\\E-Voting\\E-Voting\\Models\\GeneralListCandidate.cs",
+              "RelativeToolTip": "E-Voting\\Models\\GeneralListCandidate.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAA5wAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T06:32:06.418Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Contact.cs",
+              "DocumentMoniker": "C:\\Users\\Orange\\Downloads\\Project5_E-Voting-main (2)\\Project5_E-Voting-main\\Project5\\E-Voting\\E-Voting\\Models\\Contact.cs",
+              "RelativeDocumentMoniker": "E-Voting\\Models\\Contact.cs",
+              "ToolTip": "C:\\Users\\Orange\\Downloads\\Project5_E-Voting-main (2)\\Project5_E-Voting-main\\Project5\\E-Voting\\E-Voting\\Models\\Contact.cs",
+              "RelativeToolTip": "E-Voting\\Models\\Contact.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAxwA4AAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T06:24:58.155Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "GeneralListCandidatesController.cs",
+              "DocumentMoniker": "C:\\Users\\Orange\\Downloads\\Project5_E-Voting-main (2)\\Project5_E-Voting-main\\Project5\\E-Voting\\E-Voting\\Controllers\\GeneralListCandidatesController.cs",
+              "RelativeDocumentMoniker": "E-Voting\\Controllers\\GeneralListCandidatesController.cs",
+              "ToolTip": "C:\\Users\\Orange\\Downloads\\Project5_E-Voting-main (2)\\Project5_E-Voting-main\\Project5\\E-Voting\\E-Voting\\Controllers\\GeneralListCandidatesController.cs",
+              "RelativeToolTip": "E-Voting\\Controllers\\GeneralListCandidatesController.cs",
+              "ViewState": "AQIAAOIAAAAAAAAAAAAuwAwBAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T06:23:17.253Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Orange\\Downloads\\Project5_E-Voting-main (2)\\Project5_E-Voting-main\\Project5\\E-Voting\\E-Voting\\Views\\GeneralListCandidates\\Create.cshtml",
+              "RelativeDocumentMoniker": "E-Voting\\Views\\GeneralListCandidates\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Orange\\Downloads\\Project5_E-Voting-main (2)\\Project5_E-Voting-main\\Project5\\E-Voting\\E-Voting\\Views\\GeneralListCandidates\\Create.cshtml",
+              "RelativeToolTip": "E-Voting\\Views\\GeneralListCandidates\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC0AAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-06T06:25:22.999Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DeleteListingWithCandidates.cshtml",
+              "DocumentMoniker": "C:\\Users\\Orange\\Downloads\\Project5_E-Voting-main (2)\\Project5_E-Voting-main\\Project5\\E-Voting\\E-Voting\\Views\\GeneralListings\\DeleteListingWithCandidates.cshtml",
+              "RelativeDocumentMoniker": "E-Voting\\Views\\GeneralListings\\DeleteListingWithCandidates.cshtml",
+              "ToolTip": "C:\\Users\\Orange\\Downloads\\Project5_E-Voting-main (2)\\Project5_E-Voting-main\\Project5\\E-Voting\\E-Voting\\Views\\GeneralListings\\DeleteListingWithCandidates.cshtml",
+              "RelativeToolTip": "E-Voting\\Views\\GeneralListings\\DeleteListingWithCandidates.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-06T08:40:04.738Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Orange\\Downloads\\Project5_E-Voting-main (2)\\Project5_E-Voting-main\\Project5\\E-Voting\\E-Voting\\Views\\GeneralListCandidates\\Edit.cshtml",
+              "RelativeDocumentMoniker": "E-Voting\\Views\\GeneralListCandidates\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Orange\\Downloads\\Project5_E-Voting-main (2)\\Project5_E-Voting-main\\Project5\\E-Voting\\E-Voting\\Views\\GeneralListCandidates\\Edit.cshtml",
+              "RelativeToolTip": "E-Voting\\Views\\GeneralListCandidates\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-06T08:29:47.11Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Orange\\Downloads\\Project5_E-Voting-main (2)\\Project5_E-Voting-main\\Project5\\E-Voting\\E-Voting\\Views\\GeneralListCandidates\\Index.cshtml",
+              "RelativeDocumentMoniker": "E-Voting\\Views\\GeneralListCandidates\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Orange\\Downloads\\Project5_E-Voting-main (2)\\Project5_E-Voting-main\\Project5\\E-Voting\\E-Voting\\Views\\GeneralListCandidates\\Index.cshtml",
+              "RelativeToolTip": "E-Voting\\Views\\GeneralListCandidates\\Index.cshtml",
+              "ViewState": "AQIAACIAAAAAAAAAAAAYwD4AAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-06T07:00:17.696Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Model1.Context.cs",
+              "DocumentMoniker": "C:\\Users\\Orange\\Downloads\\Project5_E-Voting-main (2)\\Project5_E-Voting-main\\Project5\\E-Voting\\E-Voting\\Models\\Model1.Context.cs",
+              "RelativeDocumentMoniker": "E-Voting\\Models\\Model1.Context.cs",
+              "ToolTip": "C:\\Users\\Orange\\Downloads\\Project5_E-Voting-main (2)\\Project5_E-Voting-main\\Project5\\E-Voting\\E-Voting\\Models\\Model1.Context.cs",
+              "RelativeToolTip": "E-Voting\\Models\\Model1.Context.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T06:24:49.734Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\Orange\\Downloads\\Project5_E-Voting-main (2)\\Project5_E-Voting-main\\Project5\\E-Voting\\E-Voting\\Views\\GeneralListCandidates\\Details.cshtml",
+              "RelativeDocumentMoniker": "E-Voting\\Views\\GeneralListCandidates\\Details.cshtml",
+              "ToolTip": "C:\\Users\\Orange\\Downloads\\Project5_E-Voting-main (2)\\Project5_E-Voting-main\\Project5\\E-Voting\\E-Voting\\Views\\GeneralListCandidates\\Details.cshtml",
+              "RelativeToolTip": "E-Voting\\Views\\GeneralListCandidates\\Details.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-06T08:06:18.87Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\Orange\\Downloads\\Project5_E-Voting-main (2)\\Project5_E-Voting-main\\Project5\\E-Voting\\E-Voting\\Views\\GeneralListCandidates\\Delete.cshtml",
+              "RelativeDocumentMoniker": "E-Voting\\Views\\GeneralListCandidates\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\Orange\\Downloads\\Project5_E-Voting-main (2)\\Project5_E-Voting-main\\Project5\\E-Voting\\E-Voting\\Views\\GeneralListCandidates\\Delete.cshtml",
+              "RelativeToolTip": "E-Voting\\Views\\GeneralListCandidates\\Delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-06T08:06:13.593Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Model1.Context.tt",
+              "DocumentMoniker": "C:\\Users\\Orange\\Downloads\\Project5_E-Voting-main (2)\\Project5_E-Voting-main\\Project5\\E-Voting\\E-Voting\\Models\\Model1.Context.tt",
+              "RelativeDocumentMoniker": "E-Voting\\Models\\Model1.Context.tt",
+              "ToolTip": "C:\\Users\\Orange\\Downloads\\Project5_E-Voting-main (2)\\Project5_E-Voting-main\\Project5\\E-Voting\\E-Voting\\Models\\Model1.Context.tt",
+              "RelativeToolTip": "E-Voting\\Models\\Model1.Context.tt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-08-06T08:07:59.006Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\Orange\\Downloads\\Project5_E-Voting-main (2)\\Project5_E-Voting-main\\Project5\\E-Voting\\E-Voting\\Views\\GeneralListings\\Delete.cshtml",
+              "RelativeDocumentMoniker": "E-Voting\\Views\\GeneralListings\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\Orange\\Downloads\\Project5_E-Voting-main (2)\\Project5_E-Voting-main\\Project5\\E-Voting\\E-Voting\\Views\\GeneralListings\\Delete.cshtml",
+              "RelativeToolTip": "E-Voting\\Views\\GeneralListings\\Delete.cshtml",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAswCkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-06T07:50:44.621Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "RouteConfig.cs",
+              "DocumentMoniker": "C:\\Users\\Orange\\Downloads\\Project5_E-Voting-main (2)\\Project5_E-Voting-main\\Project5\\E-Voting\\E-Voting\\App_Start\\RouteConfig.cs",
+              "RelativeDocumentMoniker": "E-Voting\\App_Start\\RouteConfig.cs",
+              "ToolTip": "C:\\Users\\Orange\\Downloads\\Project5_E-Voting-main (2)\\Project5_E-Voting-main\\Project5\\E-Voting\\E-Voting\\App_Start\\RouteConfig.cs",
+              "RelativeToolTip": "E-Voting\\App_Start\\RouteConfig.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T22:33:09.385Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Orange\\Downloads\\Project5_E-Voting-main (2)\\Project5_E-Voting-main\\Project5\\E-Voting\\E-Voting\\Views\\GeneralListings\\Edit.cshtml",
+              "RelativeDocumentMoniker": "E-Voting\\Views\\GeneralListings\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Orange\\Downloads\\Project5_E-Voting-main (2)\\Project5_E-Voting-main\\Project5\\E-Voting\\E-Voting\\Views\\GeneralListings\\Edit.cshtml",
+              "RelativeToolTip": "E-Voting\\Views\\GeneralListings\\Edit.cshtml",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAswC4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-06T07:50:35.542Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\Orange\\Downloads\\Project5_E-Voting-main (2)\\Project5_E-Voting-main\\Project5\\E-Voting\\E-Voting\\Views\\GeneralListings\\Details.cshtml",
+              "RelativeDocumentMoniker": "E-Voting\\Views\\GeneralListings\\Details.cshtml",
+              "ToolTip": "C:\\Users\\Orange\\Downloads\\Project5_E-Voting-main (2)\\Project5_E-Voting-main\\Project5\\E-Voting\\E-Voting\\Views\\GeneralListings\\Details.cshtml",
+              "RelativeToolTip": "E-Voting\\Views\\GeneralListings\\Details.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-06T07:50:42.528Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Orange\\Downloads\\Project5_E-Voting-main (2)\\Project5_E-Voting-main\\Project5\\E-Voting\\E-Voting\\Views\\Admin\\Index.cshtml",
               "RelativeDocumentMoniker": "E-Voting\\Views\\Admin\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Orange\\Downloads\\Project5_E-Voting-main (2)\\Project5_E-Voting-main\\E-Voting\\E-Voting\\Views\\Admin\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Orange\\Downloads\\Project5_E-Voting-main (2)\\Project5_E-Voting-main\\Project5\\E-Voting\\E-Voting\\Views\\Admin\\Index.cshtml",
               "RelativeToolTip": "E-Voting\\Views\\Admin\\Index.cshtml",
-              "ViewState": "AQIAACIAAAAAAAAAAADwvzAAAAAyAAAA",
+              "ViewState": "AQIAAD8AAAAAAAAAAAAAAFAAAAA7AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-08-04T06:13:23.392Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Model1.edmx [Diagram1]",
-              "DocumentMoniker": "C:\\Users\\Orange\\Downloads\\Project5_E-Voting-main (2)\\Project5_E-Voting-main\\E-Voting\\E-Voting\\Models\\Model1.edmx",
-              "RelativeDocumentMoniker": "E-Voting\\Models\\Model1.edmx",
-              "ToolTip": "C:\\Users\\Orange\\Downloads\\Project5_E-Voting-main (2)\\Project5_E-Voting-main\\E-Voting\\E-Voting\\Models\\Model1.edmx [Diagram1]*",
-              "RelativeToolTip": "E-Voting\\Models\\Model1.edmx [Diagram1]*",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
-              "WhenOpened": "2024-08-05T00:40:21.691Z",
-              "EditorCaption": " [Diagram1]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Model1.edmx.diagram",
-              "DocumentMoniker": "C:\\Users\\Orange\\Downloads\\Project5_E-Voting-main (2)\\Project5_E-Voting-main\\E-Voting\\E-Voting\\Models\\Model1.edmx.diagram",
-              "RelativeDocumentMoniker": "E-Voting\\Models\\Model1.edmx.diagram",
-              "ToolTip": "C:\\Users\\Orange\\Downloads\\Project5_E-Voting-main (2)\\Project5_E-Voting-main\\E-Voting\\E-Voting\\Models\\Model1.edmx.diagram*",
-              "RelativeToolTip": "E-Voting\\Models\\Model1.edmx.diagram*",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2024-08-05T00:45:15.482Z",
+              "DocumentIndex": 22,
+              "Title": "USERController.cs",
+              "DocumentMoniker": "C:\\Users\\Orange\\Downloads\\Project5_E-Voting-main (2)\\Project5_E-Voting-main\\Project5\\E-Voting\\E-Voting\\Controllers\\USERController.cs",
+              "RelativeDocumentMoniker": "E-Voting\\Controllers\\USERController.cs",
+              "ToolTip": "C:\\Users\\Orange\\Downloads\\Project5_E-Voting-main (2)\\Project5_E-Voting-main\\Project5\\E-Voting\\E-Voting\\Controllers\\USERController.cs",
+              "RelativeToolTip": "E-Voting\\Controllers\\USERController.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAIAwwA8AAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T14:00:23.036Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 23,
+              "Title": "Model1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Orange\\Downloads\\Project5_E-Voting-main (2)\\Project5_E-Voting-main\\Project5\\E-Voting\\E-Voting\\Models\\Model1.Designer.cs",
+              "RelativeDocumentMoniker": "E-Voting\\Models\\Model1.Designer.cs",
+              "ToolTip": "C:\\Users\\Orange\\Downloads\\Project5_E-Voting-main (2)\\Project5_E-Voting-main\\Project5\\E-Voting\\E-Voting\\Models\\Model1.Designer.cs",
+              "RelativeToolTip": "E-Voting\\Models\\Model1.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T06:24:56.394Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
               "Title": "_AdminLayoutPage.cshtml",
-              "DocumentMoniker": "C:\\Users\\Orange\\Downloads\\Project5_E-Voting-main (2)\\Project5_E-Voting-main\\E-Voting\\E-Voting\\Views\\Shared\\_AdminLayoutPage.cshtml",
+              "DocumentMoniker": "C:\\Users\\Orange\\Downloads\\Project5_E-Voting-main (2)\\Project5_E-Voting-main\\Project5\\E-Voting\\E-Voting\\Views\\Shared\\_AdminLayoutPage.cshtml",
               "RelativeDocumentMoniker": "E-Voting\\Views\\Shared\\_AdminLayoutPage.cshtml",
-              "ToolTip": "C:\\Users\\Orange\\Downloads\\Project5_E-Voting-main (2)\\Project5_E-Voting-main\\E-Voting\\E-Voting\\Views\\Shared\\_AdminLayoutPage.cshtml",
+              "ToolTip": "C:\\Users\\Orange\\Downloads\\Project5_E-Voting-main (2)\\Project5_E-Voting-main\\Project5\\E-Voting\\E-Voting\\Views\\Shared\\_AdminLayoutPage.cshtml",
               "RelativeToolTip": "E-Voting\\Views\\Shared\\_AdminLayoutPage.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAA8AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-04T06:10:39.758Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "BundleConfig.cs",
-              "DocumentMoniker": "C:\\Users\\Orange\\Downloads\\Project5_E-Voting-main (2)\\Project5_E-Voting-main\\E-Voting\\E-Voting\\App_Start\\BundleConfig.cs",
-              "RelativeDocumentMoniker": "E-Voting\\App_Start\\BundleConfig.cs",
-              "ToolTip": "C:\\Users\\Orange\\Downloads\\Project5_E-Voting-main (2)\\Project5_E-Voting-main\\E-Voting\\E-Voting\\App_Start\\BundleConfig.cs",
-              "RelativeToolTip": "E-Voting\\App_Start\\BundleConfig.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAAvAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-04T22:32:00.056Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Orange\\Downloads\\Project5_E-Voting-main (2)\\Project5_E-Voting-main\\E-Voting\\E-Voting\\Views\\USER\\Index.cshtml",
-              "RelativeDocumentMoniker": "E-Voting\\Views\\USER\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Orange\\Downloads\\Project5_E-Voting-main (2)\\Project5_E-Voting-main\\E-Voting\\E-Voting\\Views\\USER\\Index.cshtml",
-              "RelativeToolTip": "E-Voting\\Views\\USER\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-04T01:33:02.144Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "CreateContact.cshtml",
-              "DocumentMoniker": "C:\\Users\\Orange\\Downloads\\Project5_E-Voting-main (2)\\Project5_E-Voting-main\\E-Voting\\E-Voting\\Views\\USER\\CreateContact.cshtml",
-              "RelativeDocumentMoniker": "E-Voting\\Views\\USER\\CreateContact.cshtml",
-              "ToolTip": "C:\\Users\\Orange\\Downloads\\Project5_E-Voting-main (2)\\Project5_E-Voting-main\\E-Voting\\E-Voting\\Views\\USER\\CreateContact.cshtml",
-              "RelativeToolTip": "E-Voting\\Views\\USER\\CreateContact.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAACAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-04T06:33:28.699Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "RouteConfig.cs",
-              "DocumentMoniker": "C:\\Users\\Orange\\Downloads\\Project5_E-Voting-main (2)\\Project5_E-Voting-main\\E-Voting\\E-Voting\\App_Start\\RouteConfig.cs",
-              "RelativeDocumentMoniker": "E-Voting\\App_Start\\RouteConfig.cs",
-              "ToolTip": "C:\\Users\\Orange\\Downloads\\Project5_E-Voting-main (2)\\Project5_E-Voting-main\\E-Voting\\E-Voting\\App_Start\\RouteConfig.cs",
-              "RelativeToolTip": "E-Voting\\App_Start\\RouteConfig.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-04T22:33:09.385Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\Orange\\Downloads\\Project5_E-Voting-main (2)\\Project5_E-Voting-main\\E-Voting\\E-Voting\\Views\\USER\\Create.cshtml",
-              "RelativeDocumentMoniker": "E-Voting\\Views\\USER\\Create.cshtml",
-              "ToolTip": "C:\\Users\\Orange\\Downloads\\Project5_E-Voting-main (2)\\Project5_E-Voting-main\\E-Voting\\E-Voting\\Views\\USER\\Create.cshtml",
-              "RelativeToolTip": "E-Voting\\Views\\USER\\Create.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-04T06:05:43.559Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "Admin.cs",
-              "DocumentMoniker": "C:\\Users\\Orange\\Downloads\\Project5_E-Voting-main (2)\\Project5_E-Voting-main\\E-Voting\\E-Voting\\Models\\Admin.cs",
-              "RelativeDocumentMoniker": "E-Voting\\Models\\Admin.cs",
-              "ToolTip": "C:\\Users\\Orange\\Downloads\\Project5_E-Voting-main (2)\\Project5_E-Voting-main\\E-Voting\\E-Voting\\Models\\Admin.cs",
-              "RelativeToolTip": "E-Voting\\Models\\Admin.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-04T20:01:25.387Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "USERController.cs",
-              "DocumentMoniker": "C:\\Users\\Orange\\Downloads\\Project5_E-Voting-main (2)\\Project5_E-Voting-main\\E-Voting\\E-Voting\\Controllers\\USERController.cs",
-              "RelativeDocumentMoniker": "E-Voting\\Controllers\\USERController.cs",
-              "ToolTip": "C:\\Users\\Orange\\Downloads\\Project5_E-Voting-main (2)\\Project5_E-Voting-main\\E-Voting\\E-Voting\\Controllers\\USERController.cs",
-              "RelativeToolTip": "E-Voting\\Controllers\\USERController.cs",
-              "ViewState": "AQIAANEAAAAAAAAAAAAIwNoAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-03T14:00:23.036Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "Contact.cshtml",
-              "DocumentMoniker": "C:\\Users\\Orange\\Downloads\\Project5_E-Voting-main (2)\\Project5_E-Voting-main\\E-Voting\\E-Voting\\Views\\Home\\Contact.cshtml",
-              "RelativeDocumentMoniker": "E-Voting\\Views\\Home\\Contact.cshtml",
-              "ToolTip": "C:\\Users\\Orange\\Downloads\\Project5_E-Voting-main (2)\\Project5_E-Voting-main\\E-Voting\\E-Voting\\Views\\Home\\Contact.cshtml",
-              "RelativeToolTip": "E-Voting\\Views\\Home\\Contact.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-04T07:17:10.875Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "Model1.Context.cs",
-              "DocumentMoniker": "C:\\Users\\Orange\\Downloads\\Project5_E-Voting-main (2)\\Project5_E-Voting-main\\E-Voting\\E-Voting\\Models\\Model1.Context.cs",
-              "RelativeDocumentMoniker": "E-Voting\\Models\\Model1.Context.cs",
-              "ToolTip": "C:\\Users\\Orange\\Downloads\\Project5_E-Voting-main (2)\\Project5_E-Voting-main\\E-Voting\\E-Voting\\Models\\Model1.Context.cs",
-              "RelativeToolTip": "E-Voting\\Models\\Model1.Context.cs",
-              "ViewState": "AQIAABwAAAAAAAAAAAA5wBIAAAAsAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-04T06:00:16.044Z",
+              "WhenOpened": "2024-08-04T06:10:39.758Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 27,
+              "Title": "BundleConfig.cs",
+              "DocumentMoniker": "C:\\Users\\Orange\\Downloads\\Project5_E-Voting-main (2)\\Project5_E-Voting-main\\Project5\\E-Voting\\E-Voting\\App_Start\\BundleConfig.cs",
+              "RelativeDocumentMoniker": "E-Voting\\App_Start\\BundleConfig.cs",
+              "ToolTip": "C:\\Users\\Orange\\Downloads\\Project5_E-Voting-main (2)\\Project5_E-Voting-main\\Project5\\E-Voting\\E-Voting\\App_Start\\BundleConfig.cs",
+              "RelativeToolTip": "E-Voting\\App_Start\\BundleConfig.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T22:32:00.056Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Orange\\Downloads\\Project5_E-Voting-main (2)\\Project5_E-Voting-main\\E-Voting\\E-Voting\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "E-Voting\\Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Orange\\Downloads\\Project5_E-Voting-main (2)\\Project5_E-Voting-main\\E-Voting\\E-Voting\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "E-Voting\\Views\\Home\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "DocumentMoniker": "C:\\Users\\Orange\\Downloads\\Project5_E-Voting-main (2)\\Project5_E-Voting-main\\Project5\\E-Voting\\E-Voting\\Views\\USER\\Index.cshtml",
+              "RelativeDocumentMoniker": "E-Voting\\Views\\USER\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Orange\\Downloads\\Project5_E-Voting-main (2)\\Project5_E-Voting-main\\Project5\\E-Voting\\E-Voting\\Views\\USER\\Index.cshtml",
+              "RelativeToolTip": "E-Voting\\Views\\USER\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-04T01:32:39.167Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\Orange\\Downloads\\Project5_E-Voting-main (2)\\Project5_E-Voting-main\\E-Voting\\E-Voting\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "E-Voting\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\Orange\\Downloads\\Project5_E-Voting-main (2)\\Project5_E-Voting-main\\E-Voting\\E-Voting\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "E-Voting\\Controllers\\HomeController.cs",
-              "ViewState": "AQIAAAIAAAAAAAAAAAAcwAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-04T04:45:13.601Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "User.cs",
-              "DocumentMoniker": "C:\\Users\\Orange\\Downloads\\Project5_E-Voting-main (2)\\Project5_E-Voting-main\\E-Voting\\E-Voting\\Models\\User.cs",
-              "RelativeDocumentMoniker": "E-Voting\\Models\\User.cs",
-              "ToolTip": "C:\\Users\\Orange\\Downloads\\Project5_E-Voting-main (2)\\Project5_E-Voting-main\\E-Voting\\E-Voting\\Models\\User.cs",
-              "RelativeToolTip": "E-Voting\\Models\\User.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-04T06:46:09.956Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "Error.cshtml",
-              "DocumentMoniker": "C:\\Users\\Orange\\Downloads\\Project5_E-Voting-main (2)\\Project5_E-Voting-main\\E-Voting\\E-Voting\\Views\\Shared\\Error.cshtml",
-              "RelativeDocumentMoniker": "E-Voting\\Views\\Shared\\Error.cshtml",
-              "ToolTip": "C:\\Users\\Orange\\Downloads\\Project5_E-Voting-main (2)\\Project5_E-Voting-main\\E-Voting\\E-Voting\\Views\\Shared\\Error.cshtml",
-              "RelativeToolTip": "E-Voting\\Views\\Shared\\Error.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-04T07:17:18.852Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\Orange\\Downloads\\Project5_E-Voting-main (2)\\Project5_E-Voting-main\\E-Voting\\E-Voting\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "E-Voting\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\Orange\\Downloads\\Project5_E-Voting-main (2)\\Project5_E-Voting-main\\E-Voting\\E-Voting\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "E-Voting\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AQIAAFcBAAAAAAAAAAAewFkBAAAzAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-04T01:32:03.3Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 25,
-              "Title": "Model1.tt",
-              "DocumentMoniker": "C:\\Users\\Orange\\Downloads\\Project5_E-Voting-main (2)\\Project5_E-Voting-main\\E-Voting\\E-Voting\\Models\\Model1.tt",
-              "RelativeDocumentMoniker": "E-Voting\\Models\\Model1.tt",
-              "ToolTip": "C:\\Users\\Orange\\Downloads\\Project5_E-Voting-main (2)\\Project5_E-Voting-main\\E-Voting\\E-Voting\\Models\\Model1.tt",
-              "RelativeToolTip": "E-Voting\\Models\\Model1.tt",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2024-08-04T06:00:05.698Z",
+              "WhenOpened": "2024-08-04T01:33:02.144Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 24,
-              "Title": "Debate.cs",
-              "DocumentMoniker": "C:\\Users\\Orange\\Downloads\\Project5_E-Voting-main (2)\\Project5_E-Voting-main\\E-Voting\\E-Voting\\Models\\Debate.cs",
-              "RelativeDocumentMoniker": "E-Voting\\Models\\Debate.cs",
-              "ToolTip": "C:\\Users\\Orange\\Downloads\\Project5_E-Voting-main (2)\\Project5_E-Voting-main\\E-Voting\\E-Voting\\Models\\Debate.cs",
-              "RelativeToolTip": "E-Voting\\Models\\Debate.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-04T06:00:08.953Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "LoginUser.cshtml",
-              "DocumentMoniker": "C:\\Users\\Orange\\Downloads\\Project5_E-Voting-main (2)\\Project5_E-Voting-main\\E-Voting\\E-Voting\\Views\\USER\\LoginUser.cshtml",
-              "RelativeDocumentMoniker": "E-Voting\\Views\\USER\\LoginUser.cshtml",
-              "ToolTip": "C:\\Users\\Orange\\Downloads\\Project5_E-Voting-main (2)\\Project5_E-Voting-main\\E-Voting\\E-Voting\\Views\\USER\\LoginUser.cshtml",
-              "RelativeToolTip": "E-Voting\\Views\\USER\\LoginUser.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-04T06:00:31.032Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 26,
-              "Title": "Login.cshtml",
-              "DocumentMoniker": "C:\\Users\\Orange\\Downloads\\Project5_E-Voting-main (2)\\Project5_E-Voting-main\\E-Voting\\E-Voting\\Views\\USER\\Login.cshtml",
-              "RelativeDocumentMoniker": "E-Voting\\Views\\USER\\Login.cshtml",
-              "ToolTip": "C:\\Users\\Orange\\Downloads\\Project5_E-Voting-main (2)\\Project5_E-Voting-main\\E-Voting\\E-Voting\\Views\\USER\\Login.cshtml",
-              "RelativeToolTip": "E-Voting\\Views\\USER\\Login.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-04T01:33:40.401Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 27,
-              "Title": "LocalElections.cshtml",
-              "DocumentMoniker": "C:\\Users\\Orange\\Downloads\\Project5_E-Voting-main (2)\\Project5_E-Voting-main\\E-Voting\\E-Voting\\Views\\USER\\LocalElections.cshtml",
-              "RelativeDocumentMoniker": "E-Voting\\Views\\USER\\LocalElections.cshtml",
-              "ToolTip": "C:\\Users\\Orange\\Downloads\\Project5_E-Voting-main (2)\\Project5_E-Voting-main\\E-Voting\\E-Voting\\Views\\USER\\LocalElections.cshtml",
-              "RelativeToolTip": "E-Voting\\Views\\USER\\LocalElections.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-04T01:33:37.466Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 28,
               "Title": "Web.config",
-              "DocumentMoniker": "C:\\Users\\Orange\\Downloads\\Project5_E-Voting-main (2)\\Project5_E-Voting-main\\E-Voting\\E-Voting\\Views\\Web.config",
-              "RelativeDocumentMoniker": "E-Voting\\Views\\Web.config",
-              "ToolTip": "C:\\Users\\Orange\\Downloads\\Project5_E-Voting-main (2)\\Project5_E-Voting-main\\E-Voting\\E-Voting\\Views\\Web.config",
-              "RelativeToolTip": "E-Voting\\Views\\Web.config",
-              "ViewState": "AQIAAAQAAAAAAAAAAAAkwB4AAAAAAAAA",
+              "DocumentMoniker": "C:\\Users\\Orange\\Downloads\\Project5_E-Voting-main (2)\\Project5_E-Voting-main\\Project5\\E-Voting\\E-Voting\\Web.config",
+              "RelativeDocumentMoniker": "E-Voting\\Web.config",
+              "ToolTip": "C:\\Users\\Orange\\Downloads\\Project5_E-Voting-main (2)\\Project5_E-Voting-main\\Project5\\E-Voting\\E-Voting\\Web.config",
+              "RelativeToolTip": "E-Voting\\Web.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAE0AAADaAQAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
-              "WhenOpened": "2024-08-03T14:32:58.061Z"
+              "WhenOpened": "2024-08-03T14:32:48.817Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "DetailsContact.cshtml",
+              "DocumentMoniker": "C:\\Users\\Orange\\Downloads\\Project5_E-Voting-main (2)\\Project5_E-Voting-main\\Project5\\E-Voting\\E-Voting\\Views\\Admin\\DetailsContact.cshtml",
+              "RelativeDocumentMoniker": "E-Voting\\Views\\Admin\\DetailsContact.cshtml",
+              "ToolTip": "C:\\Users\\Orange\\Downloads\\Project5_E-Voting-main (2)\\Project5_E-Voting-main\\Project5\\E-Voting\\E-Voting\\Views\\Admin\\DetailsContact.cshtml",
+              "RelativeToolTip": "E-Voting\\Views\\Admin\\DetailsContact.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC0AAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-04T06:23:46.454Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 29,
-              "Title": "Web.config",
-              "DocumentMoniker": "C:\\Users\\Orange\\Downloads\\Project5_E-Voting-main (2)\\Project5_E-Voting-main\\E-Voting\\E-Voting\\Web.config",
-              "RelativeDocumentMoniker": "E-Voting\\Web.config",
-              "ToolTip": "C:\\Users\\Orange\\Downloads\\Project5_E-Voting-main (2)\\Project5_E-Voting-main\\E-Voting\\E-Voting\\Web.config",
-              "RelativeToolTip": "E-Voting\\Web.config",
+              "Title": "CreateContact.cshtml",
+              "DocumentMoniker": "C:\\Users\\Orange\\Downloads\\Project5_E-Voting-main (2)\\Project5_E-Voting-main\\Project5\\E-Voting\\E-Voting\\Views\\USER\\CreateContact.cshtml",
+              "RelativeDocumentMoniker": "E-Voting\\Views\\USER\\CreateContact.cshtml",
+              "ToolTip": "C:\\Users\\Orange\\Downloads\\Project5_E-Voting-main (2)\\Project5_E-Voting-main\\Project5\\E-Voting\\E-Voting\\Views\\USER\\CreateContact.cshtml",
+              "RelativeToolTip": "E-Voting\\Views\\USER\\CreateContact.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-04T06:33:28.699Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Orange\\Downloads\\Project5_E-Voting-main (2)\\Project5_E-Voting-main\\Project5\\E-Voting\\E-Voting\\Views\\USER\\Create.cshtml",
+              "RelativeDocumentMoniker": "E-Voting\\Views\\USER\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Orange\\Downloads\\Project5_E-Voting-main (2)\\Project5_E-Voting-main\\Project5\\E-Voting\\E-Voting\\Views\\USER\\Create.cshtml",
+              "RelativeToolTip": "E-Voting\\Views\\USER\\Create.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-04T06:05:43.559Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Contact.cshtml",
+              "DocumentMoniker": "C:\\Users\\Orange\\Downloads\\Project5_E-Voting-main (2)\\Project5_E-Voting-main\\Project5\\E-Voting\\E-Voting\\Views\\Home\\Contact.cshtml",
+              "RelativeDocumentMoniker": "E-Voting\\Views\\Home\\Contact.cshtml",
+              "ToolTip": "C:\\Users\\Orange\\Downloads\\Project5_E-Voting-main (2)\\Project5_E-Voting-main\\Project5\\E-Voting\\E-Voting\\Views\\Home\\Contact.cshtml",
+              "RelativeToolTip": "E-Voting\\Views\\Home\\Contact.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-04T07:17:10.875Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Orange\\Downloads\\Project5_E-Voting-main (2)\\Project5_E-Voting-main\\Project5\\E-Voting\\E-Voting\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "E-Voting\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Orange\\Downloads\\Project5_E-Voting-main (2)\\Project5_E-Voting-main\\Project5\\E-Voting\\E-Voting\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "E-Voting\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-04T01:32:39.167Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Orange\\Downloads\\Project5_E-Voting-main (2)\\Project5_E-Voting-main\\Project5\\E-Voting\\E-Voting\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "E-Voting\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Orange\\Downloads\\Project5_E-Voting-main (2)\\Project5_E-Voting-main\\Project5\\E-Voting\\E-Voting\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "E-Voting\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAcwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T04:45:13.601Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\Users\\Orange\\Downloads\\Project5_E-Voting-main (2)\\Project5_E-Voting-main\\Project5\\E-Voting\\E-Voting\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "E-Voting\\Views\\Shared\\Error.cshtml",
+              "ToolTip": "C:\\Users\\Orange\\Downloads\\Project5_E-Voting-main (2)\\Project5_E-Voting-main\\Project5\\E-Voting\\E-Voting\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "E-Voting\\Views\\Shared\\Error.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-04T07:17:18.852Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Orange\\Downloads\\Project5_E-Voting-main (2)\\Project5_E-Voting-main\\Project5\\E-Voting\\E-Voting\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "E-Voting\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Orange\\Downloads\\Project5_E-Voting-main (2)\\Project5_E-Voting-main\\Project5\\E-Voting\\E-Voting\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "E-Voting\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAFcBAAAAAAAAAAAewFkBAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-04T01:32:03.3Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "LoginUser.cshtml",
+              "DocumentMoniker": "C:\\Users\\Orange\\Downloads\\Project5_E-Voting-main (2)\\Project5_E-Voting-main\\Project5\\E-Voting\\E-Voting\\Views\\USER\\LoginUser.cshtml",
+              "RelativeDocumentMoniker": "E-Voting\\Views\\USER\\LoginUser.cshtml",
+              "ToolTip": "C:\\Users\\Orange\\Downloads\\Project5_E-Voting-main (2)\\Project5_E-Voting-main\\Project5\\E-Voting\\E-Voting\\Views\\USER\\LoginUser.cshtml",
+              "RelativeToolTip": "E-Voting\\Views\\USER\\LoginUser.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-04T06:00:31.032Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\Orange\\Downloads\\Project5_E-Voting-main (2)\\Project5_E-Voting-main\\Project5\\E-Voting\\E-Voting\\Views\\USER\\Login.cshtml",
+              "RelativeDocumentMoniker": "E-Voting\\Views\\USER\\Login.cshtml",
+              "ToolTip": "C:\\Users\\Orange\\Downloads\\Project5_E-Voting-main (2)\\Project5_E-Voting-main\\Project5\\E-Voting\\E-Voting\\Views\\USER\\Login.cshtml",
+              "RelativeToolTip": "E-Voting\\Views\\USER\\Login.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-04T01:33:40.401Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "LocalElections.cshtml",
+              "DocumentMoniker": "C:\\Users\\Orange\\Downloads\\Project5_E-Voting-main (2)\\Project5_E-Voting-main\\Project5\\E-Voting\\E-Voting\\Views\\USER\\LocalElections.cshtml",
+              "RelativeDocumentMoniker": "E-Voting\\Views\\USER\\LocalElections.cshtml",
+              "ToolTip": "C:\\Users\\Orange\\Downloads\\Project5_E-Voting-main (2)\\Project5_E-Voting-main\\Project5\\E-Voting\\E-Voting\\Views\\USER\\LocalElections.cshtml",
+              "RelativeToolTip": "E-Voting\\Views\\USER\\LocalElections.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-04T01:33:37.466Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\Orange\\Downloads\\Project5_E-Voting-main (2)\\Project5_E-Voting-main\\Project5\\E-Voting\\E-Voting\\Views\\Web.config",
+              "RelativeDocumentMoniker": "E-Voting\\Views\\Web.config",
+              "ToolTip": "C:\\Users\\Orange\\Downloads\\Project5_E-Voting-main (2)\\Project5_E-Voting-main\\Project5\\E-Voting\\E-Voting\\Views\\Web.config",
+              "RelativeToolTip": "E-Voting\\Views\\Web.config",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAkwB4AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
-              "WhenOpened": "2024-08-03T14:32:48.817Z",
+              "WhenOpened": "2024-08-03T14:32:58.061Z",
               "EditorCaption": ""
             }
           ]

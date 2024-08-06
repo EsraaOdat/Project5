@@ -17,6 +17,7 @@ namespace E_Voting.Models
         public int CandidateID { get; set; }
         public string GeneralListingName { get; set; }
         public string CandidateName { get; set; }
+        public int NationalNumber { get; set; }
         public string Email { get; set; }
         public string Status { get; set; }
     

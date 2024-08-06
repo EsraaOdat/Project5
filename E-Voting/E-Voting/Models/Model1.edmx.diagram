@@ -4,22 +4,22 @@
   <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
     <!-- Diagram content (shape and connector positions) -->
     <edmx:Diagrams>
-      <Diagram DiagramId="7ced4cb14be24940b5d0ebb185c87f9e" Name="Diagram1" ZoomLevel="77">
+      <Diagram DiagramId="70458ce6c7b945f8ad2d6f53eadcc6f9" Name="Diagram1" ZoomLevel="100">
         <EntityTypeShape EntityType="ElectionModel.Admin" Width="1.5" PointX="5.75" PointY="4.75" IsExpanded="true" />
-        <EntityTypeShape EntityType="ElectionModel.DATE" Width="1.5" PointX="0.75" PointY="7.75" IsExpanded="true" />
-        <EntityTypeShape EntityType="ElectionModel.Debate" Width="1.5" PointX="5.25" PointY="1.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="ElectionModel.Ad" Width="1.5" PointX="7.75" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="ElectionModel.Contact" Width="1.5" PointX="7.75" PointY="3.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="ElectionModel.DATE" Width="1.5" PointX="5.75" PointY="7.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="ElectionModel.Debate" Width="1.5" PointX="6" PointY="1.375" IsExpanded="true" />
         <EntityTypeShape EntityType="ElectionModel.LocalList" Width="1.5" PointX="0.75" PointY="1.375" IsExpanded="true" />
         <EntityTypeShape EntityType="ElectionModel.LocalListCandidate" Width="1.5" PointX="3" PointY="1" IsExpanded="true" />
-        <EntityTypeShape EntityType="ElectionModel.Payment" Width="1.5" PointX="2.75" PointY="7.75" IsExpanded="true" />
-        <EntityTypeShape EntityType="ElectionModel.User" Width="1.5" PointX="7.75" PointY="3.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="ElectionModel.Payment" Width="1.5" PointX="7.75" PointY="6.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="ElectionModel.User" Width="1.5" PointX="0.75" PointY="8.75" IsExpanded="true" />
         <AssociationConnector Association="ElectionModel.FK__Debates__Candida__5070F446" ManuallyRouted="false" />
         <AssociationConnector Association="ElectionModel.FK__Debates__Candida__5165187F" ManuallyRouted="false" />
         <AssociationConnector Association="ElectionModel.FK__LocalList__Local__45F365D3" ManuallyRouted="false" />
-        <EntityTypeShape EntityType="ElectionModel.Contact" Width="1.5" PointX="7.375" PointY="0.75" />
-        <EntityTypeShape EntityType="ElectionModel.Ad" Width="1.5" PointX="5.375" PointY="8.75" />
-        <EntityTypeShape EntityType="ElectionModel.GeneralListCandidate" Width="1.5" PointX="9.625" PointY="8.875" />
-        <EntityTypeShape EntityType="ElectionModel.GeneralListing" Width="1.5" PointX="7.375" PointY="9.125" />
-        <AssociationConnector Association="ElectionModel.FK__GeneralLi__Gener__1332DBDC" />
+        <EntityTypeShape EntityType="ElectionModel.GeneralListCandidate" Width="1.5" PointX="10.625" PointY="10" />
+        <EntityTypeShape EntityType="ElectionModel.GeneralListing" Width="1.5" PointX="8.375" PointY="10.25" />
+        <AssociationConnector Association="ElectionModel.FK__GeneralLi__Gener__5AB9788F" />
       </Diagram>
     </edmx:Diagrams>
   </edmx:Designer>

@@ -1,6 +1,5 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Data;
 using System.Data.Entity;
 using System.Linq;
 using System.Net;
@@ -12,7 +11,7 @@ namespace E_Voting.Controllers
 {
     public class GeneralListingsController : Controller
     {
-        private ElectionEntities1 db = new ElectionEntities1();
+        private ElectionEntities db = new ElectionEntities();
 
         // GET: GeneralListings
         public ActionResult Index()
@@ -42,8 +41,6 @@ namespace E_Voting.Controllers
         }
 
         // POST: GeneralListings/Create
-        // To protect from overposting attacks, enable the specific properties you want to bind to, for 
-        // more details see https://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
         public ActionResult Create([Bind(Include = "GeneralListingID,Name,NumberOfVotes")] GeneralListing generalListing)
@@ -58,10 +55,7 @@ namespace E_Voting.Controllers
             return View(generalListing);
         }
 
-
-
-
-
+        // GET: GeneralListings/Edit/5
         public ActionResult Edit(int id)
         {
             var candidate = db.GeneralListCandidates.Find(id);
@@ -72,10 +66,10 @@ namespace E_Voting.Controllers
 
             // Create a SelectList for Status
             ViewBag.StatusList = new SelectList(new List<SelectListItem>
-    {
-        new SelectListItem { Text = "Reject", Value = "0" },
-        new SelectListItem { Text = "Accept", Value = "1" }
-    }, "Value", "Text", candidate.Status); // Set the selected value
+            {
+                new SelectListItem { Text = "Reject", Value = "0" },
+                new SelectListItem { Text = "Accept", Value = "1" }
+            }, "Value", "Text", candidate.Status);
 
             return View(candidate);
         }
@@ -93,22 +87,13 @@ namespace E_Voting.Controllers
 
             // Re-populate the SelectList in case of error
             ViewBag.StatusList = new SelectList(new List<SelectListItem>
-    {
-        new SelectListItem { Text = "Reject", Value = "0" },
-        new SelectListItem { Text = "Accept", Value = "1" }
-    }, "Value", "Text", candidate.Status);
+            {
+                new SelectListItem { Text = "Reject", Value = "0" },
+                new SelectListItem { Text = "Accept", Value = "1" }
+            }, "Value", "Text", candidate.Status);
 
             return View(candidate);
         }
-
-
-
-
-
-
-
-
-
 
         // GET: GeneralListings/Delete/5
         public ActionResult Delete(string id)
@@ -133,6 +118,27 @@ namespace E_Voting.Controllers
             GeneralListing generalListing = db.GeneralListings.Find(id);
             db.GeneralListings.Remove(generalListing);
             db.SaveChanges();
+            return RedirectToAction("Index");
+        }
+
+        public ActionResult DeleteListingWithCandidates(string id)
+        {
+            if (id == null)
+            {
+                return new HttpStatusCodeResult(HttpStatusCode.BadRequest);
+            }
+
+            var generalListing = db.GeneralListings.Include(gl => gl.GeneralListCandidates).FirstOrDefault(gl => gl.Name == id);
+
+            if (generalListing == null)
+            {
+                return HttpNotFound();
+            }
+
+            // Remove the general listing (cascades to associated candidates)
+            db.GeneralListings.Remove(generalListing);
+            db.SaveChanges();
+
             return RedirectToAction("Index");
         }
 

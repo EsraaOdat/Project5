@@ -13,7 +13,7 @@ namespace E_Voting.Controllers
 {
     public class USERController : Controller
     {
-        private ElectionEntities1 DB = new ElectionEntities1();
+        private ElectionEntities DB = new ElectionEntities();
 
         // GET: USER
         public ActionResult Index()

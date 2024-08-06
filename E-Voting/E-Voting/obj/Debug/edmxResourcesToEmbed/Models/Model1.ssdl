@@ -60,6 +60,7 @@
     <Property Name="CandidateID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
     <Property Name="GeneralListingName" Type="nvarchar" MaxLength="255" Nullable="false" />
     <Property Name="CandidateName" Type="nvarchar" MaxLength="255" />
+    <Property Name="NationalNumber" Type="int" Nullable="false" />
     <Property Name="Email" Type="varchar" MaxLength="100" Nullable="false" />
     <Property Name="Status" Type="nvarchar" MaxLength="50" />
   </EntityType>
@@ -146,8 +147,10 @@
       </Dependent>
     </ReferentialConstraint>
   </Association>
-  <Association Name="FK__GeneralLi__Gener__1332DBDC">
-    <End Role="GeneralListing" Type="Self.GeneralListing" Multiplicity="1" />
+  <Association Name="FK__GeneralLi__Gener__5AB9788F">
+    <End Role="GeneralListing" Type="Self.GeneralListing" Multiplicity="1">
+      <OnDelete Action="Cascade" />
+    </End>
     <End Role="GeneralListCandidates" Type="Self.GeneralListCandidates" Multiplicity="*" />
     <ReferentialConstraint>
       <Principal Role="GeneralListing">
@@ -190,7 +193,7 @@
       <End Role="LocalListCandidates" EntitySet="LocalListCandidates" />
       <End Role="Debates" EntitySet="Debates" />
     </AssociationSet>
-    <AssociationSet Name="FK__GeneralLi__Gener__1332DBDC" Association="Self.FK__GeneralLi__Gener__1332DBDC">
+    <AssociationSet Name="FK__GeneralLi__Gener__5AB9788F" Association="Self.FK__GeneralLi__Gener__5AB9788F">
       <End Role="GeneralListing" EntitySet="GeneralListing" />
       <End Role="GeneralListCandidates" EntitySet="GeneralListCandidates" />
     </AssociationSet>

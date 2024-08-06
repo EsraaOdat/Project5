@@ -13,10 +13,10 @@ namespace E_Voting.Models
     using System.Data.Entity;
     using System.Data.Entity.Infrastructure;
     
-    public partial class ElectionEntities1 : DbContext
+    public partial class ElectionEntities : DbContext
     {
-        public ElectionEntities1()
-            : base("name=ElectionEntities1")
+        public ElectionEntities()
+            : base("name=ElectionEntities")
         {
         }
     
@@ -26,14 +26,14 @@ namespace E_Voting.Models
         }
     
         public virtual DbSet<Admin> Admins { get; set; }
+        public virtual DbSet<Ad> Ads { get; set; }
+        public virtual DbSet<Contact> Contacts { get; set; }
         public virtual DbSet<DATE> DATES { get; set; }
         public virtual DbSet<Debate> Debates { get; set; }
         public virtual DbSet<LocalList> LocalLists { get; set; }
         public virtual DbSet<LocalListCandidate> LocalListCandidates { get; set; }
         public virtual DbSet<Payment> Payments { get; set; }
         public virtual DbSet<User> Users { get; set; }
-        public virtual DbSet<Contact> Contacts { get; set; }
-        public virtual DbSet<Ad> Ads { get; set; }
         public virtual DbSet<GeneralListCandidate> GeneralListCandidates { get; set; }
         public virtual DbSet<GeneralListing> GeneralListings { get; set; }
     }

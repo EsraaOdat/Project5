@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
-  <EntityContainerMapping StorageEntityContainer="ElectionModelStoreContainer" CdmEntityContainer="ElectionEntities1">
+  <EntityContainerMapping StorageEntityContainer="ElectionModelStoreContainer" CdmEntityContainer="ElectionEntities">
     <EntitySetMapping Name="Admins">
       <EntityTypeMapping TypeName="ElectionModel.Admin">
         <MappingFragment StoreEntitySet="Admin">
@@ -8,6 +8,30 @@
           <ScalarProperty Name="Username" ColumnName="Username" />
           <ScalarProperty Name="Password" ColumnName="Password" />
           <ScalarProperty Name="Email" ColumnName="Email" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Ads">
+      <EntityTypeMapping TypeName="ElectionModel.Ad">
+        <MappingFragment StoreEntitySet="Ads">
+          <ScalarProperty Name="Titel" ColumnName="Titel" />
+          <ScalarProperty Name="Content" ColumnName="Content" />
+          <ScalarProperty Name="payment" ColumnName="payment" />
+          <ScalarProperty Name="statsOfAds" ColumnName="statsOfAds" />
+          <ScalarProperty Name="StartDate" ColumnName="StartDate" />
+          <ScalarProperty Name="EndDate" ColumnName="EndDate" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Contacts">
+      <EntityTypeMapping TypeName="ElectionModel.Contact">
+        <MappingFragment StoreEntitySet="Contact">
+          <ScalarProperty Name="id" ColumnName="id" />
+          <ScalarProperty Name="email" ColumnName="email" />
+          <ScalarProperty Name="name" ColumnName="name" />
+          <ScalarProperty Name="subject" ColumnName="subject" />
+          <ScalarProperty Name="message" ColumnName="message" />
+          <ScalarProperty Name="IsRead" ColumnName="IsRead" />
         </MappingFragment>
       </EntityTypeMapping>
     </EntitySetMapping>
@@ -90,35 +114,12 @@
         </MappingFragment>
       </EntityTypeMapping>
     </EntitySetMapping>
-    <EntitySetMapping Name="Contacts">
-      <EntityTypeMapping TypeName="ElectionModel.Contact">
-        <MappingFragment StoreEntitySet="Contact">
-          <ScalarProperty Name="IsRead" ColumnName="IsRead" />
-          <ScalarProperty Name="message" ColumnName="message" />
-          <ScalarProperty Name="subject" ColumnName="subject" />
-          <ScalarProperty Name="name" ColumnName="name" />
-          <ScalarProperty Name="email" ColumnName="email" />
-          <ScalarProperty Name="id" ColumnName="id" />
-        </MappingFragment>
-      </EntityTypeMapping>
-    </EntitySetMapping>
-    <EntitySetMapping Name="Ads">
-      <EntityTypeMapping TypeName="ElectionModel.Ad">
-        <MappingFragment StoreEntitySet="Ads">
-          <ScalarProperty Name="EndDate" ColumnName="EndDate" />
-          <ScalarProperty Name="StartDate" ColumnName="StartDate" />
-          <ScalarProperty Name="statsOfAds" ColumnName="statsOfAds" />
-          <ScalarProperty Name="payment" ColumnName="payment" />
-          <ScalarProperty Name="Content" ColumnName="Content" />
-          <ScalarProperty Name="Titel" ColumnName="Titel" />
-        </MappingFragment>
-      </EntityTypeMapping>
-    </EntitySetMapping>
     <EntitySetMapping Name="GeneralListCandidates">
       <EntityTypeMapping TypeName="ElectionModel.GeneralListCandidate">
         <MappingFragment StoreEntitySet="GeneralListCandidates">
           <ScalarProperty Name="Status" ColumnName="Status" />
           <ScalarProperty Name="Email" ColumnName="Email" />
+          <ScalarProperty Name="NationalNumber" ColumnName="NationalNumber" />
           <ScalarProperty Name="CandidateName" ColumnName="CandidateName" />
           <ScalarProperty Name="GeneralListingName" ColumnName="GeneralListingName" />
           <ScalarProperty Name="CandidateID" ColumnName="CandidateID" />
