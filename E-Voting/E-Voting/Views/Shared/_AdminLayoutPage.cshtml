@@ -118,35 +118,66 @@
         </ul>*@
 
                 @* Views/Shared/_Navbar.cshtml *@
-            <ul class="navbar-nav flex-fill w-100 mb-2">
-                <li class="nav-item dropdown" >
-                    @Html.ActionLink("Contact", "Index", "Admin", new { area = "" }, new {@class="fe fe-book fe-16" })
-                </li>
+
+                <ul class="navbar-nav flex-fill w-100 mb-2">
+                    <li class="nav-item dropdown">
+                        @Html.Raw($"<a href='{Url.Action("Index", "Admin", new { area = "" })}' class='nav-link'><i class='bi bi-envelope'></i><span class='ml-3 item-text'>Contact</span><span class='sr-only'>(current)</span></a>")
+                    </li>
+                </ul>
+
+
+
+
+                <ul class="navbar-nav flex-fill w-100 mb-2">
+                    <li class="nav-item dropdown">
+                        @Html.Raw($"<a href='{Url.Action( "create","GeneralListings", new { area = "" })}' class='nav-link'><i class='bi bi-envelope'></i><span class='ml-3 item-text'>Create General List</span><span class='sr-only'>(current)</span></a>")
+                    </li>
+                </ul>
+
+
+
+
+                <ul class="navbar-nav flex-fill w-100 mb-2">
+                    <li class="nav-item dropdown">
+                        @Html.Raw($"<a href='{Url.Action("Index", "GeneralListCandidates", new { area = "" })}' class='nav-link'><i class='bi bi-envelope'></i><span class='ml-3 item-text'>Party List Requests</span><span class='sr-only'>(current)</span></a>")
+                    </li>
+                </ul>
 
                 
-            </ul>
-
-
-
-
                 <ul class="navbar-nav flex-fill w-100 mb-2">
                     <li class="nav-item dropdown">
-                        <a href="#dashboard" data-toggle="collapse" aria-expanded="false" class="nav-link">
-                            <i class="fe fe-home fe-16"></i>
-                            <span class="ml-3 item-text">Dashboard</span><span class="sr-only">(current)</span>
-                        </a>
+                        @Html.Raw($"<a href='{Url.Action("Index", "GeneralListings", new { area = "" })}' class='nav-link'><i class='bi bi-envelope'></i><span class='ml-3 item-text'>Manage Listings and Votes </span><span class='sr-only'>(current)</span></a>")
                     </li>
                 </ul>
 
 
-                <ul class="navbar-nav flex-fill w-100 mb-2">
-                    <li class="nav-item dropdown">
-                        <a href="#dashboard" data-toggle="collapse" aria-expanded="false" class="dropdown-toggle nav-link">
-                            <i class="fe fe-home fe-16"></i>
-                            <span class="ml-3 item-text">Dashboard</span><span class="sr-only">(current)</span>
-                        </a>
-                    </li>
-                </ul>
+
+
+
+
+
+
+
+
+                @*
+        <ul class="navbar-nav flex-fill w-100 mb-2">
+            <li class="nav-item dropdown">
+                <a href="#dashboard" data-toggle="collapse" aria-expanded="false" class="nav-link">
+                    <i class="fe fe-home fe-16"></i>
+                    <span class="ml-3 item-text">Dashboard</span><span class="sr-only">(current)</span>
+                </a>
+            </li>
+        </ul>
+
+
+        <ul class="navbar-nav flex-fill w-100 mb-2">
+            <li class="nav-item dropdown">
+                <a href="#dashboard" data-toggle="collapse" aria-expanded="false" class="dropdown-toggle nav-link">
+                    <i class="fe fe-home fe-16"></i>
+                    <span class="ml-3 item-text">Dashboard</span><span class="sr-only">(current)</span>
+                </a>
+            </li>
+        </ul>*@
 
 
             </nav>
